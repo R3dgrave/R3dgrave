@@ -2,7 +2,7 @@
 
 ### ☕︎ &nbsp;Sobre mí
 
-👨🏻‍💻 &nbsp;Soy un desarrollador de software con pasión por crear aplicaciones web dinámicas y modernas. Con experiencia en el desarrollo front-end\
+👨🏻‍💻 &nbsp;Soy un desarrollador de software con pasión por crear aplicaciones web dinámicas. Con experiencia en el desarrollo front-end\
 💡 &nbsp;Disfruto construyendo desde interfaces de usuario intuitivas hasta la lógica compleja del backend.\
 💻 &nbsp;Siempre estoy aprendiendo y buscando nuevos retos para mejorar mis habilidades.\
 🎓 &nbsp;Actualemente estoy estudiando un bootcamp de desarrollo web full-stack.\
