@@ -1,3 +1,4 @@
+<img alt="Night Coding" src="./cu-chatbot.gif" width='1000'/><h2>Hola! Soy Diego</h2>
 <!-- ## 👋 &nbsp;Hola! Soy Diego Abanto -->
 
 ### ☕︎ &nbsp;Sobre mí
