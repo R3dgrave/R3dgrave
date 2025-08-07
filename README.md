@@ -1,6 +1,6 @@
 <!-- ## 👋 &nbsp;Hola! Soy Diego Abanto -->
 
-### 👨🏻‍💻 &nbsp;Sobre mí
+### ☕︎ &nbsp;Sobre mí
 
 👨🏻‍💻 &nbsp;Soy un desarrollador de software con pasión por crear aplicaciones web dinámicas y modernas. Con experiencia en el desarrollo front-end\
 💡 &nbsp;Disfruto construyendo desde interfaces de usuario intuitivas hasta la lógica compleja del backend.\
