@@ -8,7 +8,7 @@
 💻 &nbsp;Siempre estoy aprendiendo y buscando nuevos retos para mejorar mis habilidades.\
 🎓 &nbsp;Actualemente estoy estudiando un bootcamp de desarrollo web full-stack.\
 🎮 &nbsp;En mi tiempo libre, me dedico a jugar videojuegos.\
-📄 &nbsp;Por favor, echa un vistazo a mi [CV](https://drive.google.com/file/d/1c01TfHn0r3cNul0qPtzjanrZwgDQ8v0l/view) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!.\
+📄 &nbsp;Por favor, echa un vistazo a mi [CV](https://drive.google.com/file/d/1c01TfHn0r3cNul0qPtzjanrZwgDQ8v0l/view) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!.
 
 ### 🛠 &nbsp;Stack Tecnológico
 
