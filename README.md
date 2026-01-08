@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./cu-chatbot.gif" width='600'/><h2>Hola! Soy Diego</h2>
+<img alt="Night Coding" src="./cu-chatbot.gif" width='600'/><h2>Hola! Soy Diego Abanto</h2>
 <!-- ## 👋 &nbsp;Hola! Soy Diego Abanto -->
 
 ### ☕︎ &nbsp;Sobre mí
@@ -8,7 +8,7 @@
 💻 &nbsp;Siempre estoy aprendiendo y buscando nuevos retos para mejorar mis habilidades.\
 🎓 &nbsp;Actualemente estoy estudiando un bootcamp de desarrollo web full-stack.\
 🎮 &nbsp;En mi tiempo libre, me dedico a jugar videojuegos.\
-📄 &nbsp;Por favor, echa un vistazo a mi [CV](https://drive.google.com/file/d/1OPVeAMSmIHZAk1p9jjh-bzPDWFSvqv0Y/view) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!.
+📄 &nbsp;Por favor, echa un vistazo a mi [CV](https://drive.google.com/file/d/1Vxpw2UGRLClQwPHgxabM3tbmUcKmjh-_/view) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!.
 
 ### 🛠 &nbsp;Stack Tecnológico
 
